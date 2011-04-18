@@ -1,4 +1,14 @@
-== Welcome to Rails
+# Marked with pound: sample application
+
+sample application for 
+
+[*Tutorial*]
+[M Hartl]
+
+[* in squareBracket with star *]
+[ in square brackets ]
+
+ = Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
@@ -248,9 +258,8 @@ script
 test
   Unit and functional tests along with fixtures. When using the rails generate
   command, template test files will be generated for you and placed in this
-  directory.
+   directory.
 
 vendor
-  External libraries that the application depends on. Also includes the plugins
-  subdirectory. If the app has frozen rails, those gems also go here, under
-  vendor/rails/. This directory is in the load path.
+  External libraries that the applic   vendor/rails/. This directory is in the load path.
+ 
